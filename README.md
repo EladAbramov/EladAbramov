@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2013/07/12/19/01/boxer-154200_360.png" height="60px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2013/07/12/19/01/boxer-154200_640.png" height="60px"/></a>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elad.</h1>
 <h3 align="center">Let's Software 2gether</h3>
 
