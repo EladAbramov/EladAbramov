@@ -3,8 +3,8 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
 
-<h1 align="center">Shalom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arik.</h1>
-<h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elad.</h1>
+<h3 align="center">Let's Software 2gether</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -23,7 +23,7 @@ opportunity to **make entrepreneurships.**
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://flutter.dev/" target="_blank"> <img src=="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+  <a href="https://flutter.dev/" target="_blank"> <img src=="https://img.icons8.com/color/48/000000/flutter.png"> </a>
 </p>
 <br/>
 
