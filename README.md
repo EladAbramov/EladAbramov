@@ -23,17 +23,11 @@ opportunity to **make entrepreneurships.**
 </p>
 <br/>
 
-## 📊 My Github Stats
-<br/>
-<a href="#"><img alt="Elad Abramov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EladAbramov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/EladAbramov/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/elad-abramov-427b97133/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://facebook.com/EladAbramov" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
