@@ -23,7 +23,7 @@ opportunity to **make entrepreneurships.**
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://flutter.dev/" target="_blank"> <img src=="https://img.icons8.com/color/48/000000/flutter.png"> </a>
+  <a href="https://flutter.dev/" target="_blank" img src=="https://img.icons8.com/color/48/000000/flutter.png"> </a>
 </p>
 <br/>
 
